@@ -3,7 +3,6 @@
 
 
 /**
-
  * main - prints _putchar
 
  *
@@ -19,7 +18,6 @@
 
 
 int main(void)
-
 {
 
 	char text[9] = "_putchar";
