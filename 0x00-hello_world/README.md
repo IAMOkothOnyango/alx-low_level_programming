@@ -1,1 +1,1 @@
-New Directory
+Introductions to C Programming. Hello World!
