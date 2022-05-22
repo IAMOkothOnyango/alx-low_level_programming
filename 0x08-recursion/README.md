@@ -2,7 +2,7 @@ Recursion in C Programming
 
 This project looks into **Recursion** and applied and understood for programming in **the C language.**
 
-##Project Files
+## Project Files
 
 File 0-puts_recursion.c is a function that prints a string, followed by a new line.
 
