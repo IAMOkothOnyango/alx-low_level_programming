@@ -1,7 +1,5 @@
 # C - More malloc, free
 
-# C - More malloc, free
-
 This project looks into using `exit`, `calloc`, and `realloc` in **C.**
 
 ## Tests :heavy_check_mark:
