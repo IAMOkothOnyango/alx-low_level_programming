@@ -1,4 +1,4 @@
-# C - Static libraries
+# Static Libraries // C Programming
 
 This project delves into static libraries - the definition and applications. I ventured to create and
 using them with `ar`, `ranlib`, and `nm` command bases.
