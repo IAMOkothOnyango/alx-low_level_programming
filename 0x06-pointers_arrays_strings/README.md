@@ -1,29 +1,37 @@
-File 0-strcat.c is a function that concatenates two strings.
+# 0x06-pointers_arrays_strings
 
-File 1-strncat.c is a function that concatenates two strings.
+***This Project is done under the ALX/Holberton School SE Programme // 2022***
 
-File 2-strcpy.c is a function that copies a string.
+## Project Files
 
-File 3-strcmp.c is a function that compares two strings.
+* File 0-strcat.c is a function that concatenates two strings.
 
-File 4-rev_array.c is a function that reverses the content of an array of integers.
+* File 1-strncat.c is a function that concatenates two strings.
 
-File 5-string_toupper.c is a function that changes all lowercase letters of a string to uppercase.
+* File 2-strcpy.c is a function that copies a string.
 
-File 6-cap_string.c is a function that capitalizes all words of a string.
+* File 3-strcmp.c is a function that compares two strings.
 
-File 7-leet.c is a function that encodes a string into 1337.
+* File 4-rev_array.c is a function that reverses the content of an array of integers.
 
-File 100-rot13.c is a function that encodes a string using rot13.
+* File 5-string_toupper.c is a function that changes all lowercase letters of a string to uppercase.
 
-File 101-print_number.c is a function that prints an integer.
+* File 6-cap_string.c is a function that capitalizes all words of a string.
 
-File 102-magic.c is a function that adds a line to the given code, so that the program prints a[2] = 98, followed by a new line.
+* File 7-leet.c is a function that encodes a string into 1337.
 
-File 103-infinite_add.c is a function that adds two numbers.
+* File 100-rot13.c is a function that encodes a string using rot13.
 
-File 104-print_buffer.c is a function that prints a buffer.
+* File 101-print_number.c is a function that prints an integer.
 
-File main.h is the header file with the functions prototypes.
+* File 102-magic.c is a function that adds a line to the given code, so that the program prints a[2] = 98, followed by a new line.
 
-File _putchar.c is the file that contains the _putchar function.
+* File 103-infinite_add.c is a function that adds two numbers.
+
+* File 104-print_buffer.c is a function that prints a buffer.
+
+* File main.h is the header file with the functions prototypes.
+
+* File _putchar.c is the file that contains the _putchar function.
+
+**Authored and Updated by Okoth Onyango // ALX/Holberton School SE Programme Cohort 6 // 2022**
