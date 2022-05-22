@@ -21,4 +21,4 @@ All of the following files are programs written in C:
 | `3-main.c` | Entry point |
 | `100-main_opcodes.c` | Prints the opcodes of its own main function |
 
-Authored and Updated by Okoth Onyango // ALX/Holberton School SE Programme Cohort 6 // 2022
+**Authored and Updated by Okoth Onyango // ALX/Holberton School SE Programme Cohort 6 // 2022**
