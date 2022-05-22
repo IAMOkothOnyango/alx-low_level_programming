@@ -57,4 +57,4 @@ prototypes for all types and functions written in the project.
   prints `Hello, Holberton`, followed by a new line using only the system call
   `write` with `int`. -->
 
-# Authored and Updated By Okoth Onyango
+**Authored and Updated by Okoth Onyango // ALX/Holberton School SE Programme Cohort 6 // 2022**
